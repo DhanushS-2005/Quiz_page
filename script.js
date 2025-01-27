@@ -72,7 +72,7 @@ const quizData = [
         correct: "a",
     },
     {
-        question: "4) RAM stands for?",
+        question: "10) RAM stands for?",
         a: "Run Access Memory",
         b: "Read Access Memory",
         c: "Random Access Memory",
